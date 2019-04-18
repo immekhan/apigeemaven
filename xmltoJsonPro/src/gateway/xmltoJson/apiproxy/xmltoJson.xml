@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="xmltoJson">
+    <Basepaths>/xmltojson</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1486470808599</CreatedAt>
+    <CreatedBy>immekhan.javatech@gmail.com</CreatedBy>
+    <Description>httpbin</Description>
+    <DisplayName>xmltoJson</DisplayName>
+    <LastModifiedAt>1487059452449</LastModifiedAt>
+    <LastModifiedBy>immekhan.javatech@gmail.com</LastModifiedBy>
+    <Policies>
+        <Policy>XML-to-JSON-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+    <validate>false</validate>
+</APIProxy>
